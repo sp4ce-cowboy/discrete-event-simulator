@@ -12,7 +12,6 @@ with full Javadocs.
 [![Javadoc](https://img.shields.io/badge/Javadoc-hosted-5382A1)](https://sp4ce-cowboy.github.io/discrete-event-simulator/)
 [![Vim](https://img.shields.io/badge/Vim-only-019733?logo=vim&logoColor=white)](README-ORIGINAL.md)
 
-![Classes](https://img.shields.io/badge/classes-16-555?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-1.5k%20lines-555?style=flat-square)
 
 </div>
@@ -85,8 +84,7 @@ stateDiagram-v2
 
 ## Coding stats
 
-Not tracked: this predates my WakaTime use (from Oct 2023), and the repo is an archive uploaded in
-Sep 2023. The final code is 1,543 lines of Java in 15 files plus the abstract `Event`; by the
+The final code is 1,543 lines of Java in 15 files plus the abstract `Event`; by the
 course's design, the labs that led up to it came to about 10,000 lines.
 
 ## On my resume
