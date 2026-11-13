@@ -59,7 +59,7 @@ Good places to start: [`Simulator`](https://sp4ce-cowboy.github.io/discrete-even
 - **Randomness:** service and rest times are `Supplier<Double>`s, drawn only when needed, from a
   seeded `Random`, so runs repeat.
 
-## Skills shown
+## Skills covered
 
 | Skill | Where it shows (click the links for the code) | Docs |
 |---|---|---|
